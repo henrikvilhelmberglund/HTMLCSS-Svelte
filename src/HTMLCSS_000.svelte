@@ -11,7 +11,7 @@
       <a href="http://">Om oss</a>
     </li>
     <li>
-      <a href="src/contact.svelte">Kontakta oss</a>
+      <a href="contact.svelte">Kontakta oss</a>
     </li>
   </ul>
 </nav>
