@@ -2,7 +2,7 @@
   import svelteLogo from "./assets/svelte.svg";
   import Counter from "./lib/Counter.svelte";
   import HTMLCSS_000 from "./HTMLCSS_000.svelte";
-  import Htmlcss_000Exercise from "./HTMLCSS_000_exercise.svelte";
+  import HTMLCSS_000Exercise from "./HTMLCSS_000_exercise.svelte";
 </script>
 
 <main>
@@ -33,7 +33,7 @@
   -->
 
   <HTMLCSS_000 />
-  <Htmlcss_000Exercise />
+  <HTMLCSS_000Exercise />
 </main>
 
 <style>
