@@ -45,3 +45,6 @@ self enclosing tag <input type="button"/>
 <div role="navigation"> ? vs nav-tag
 
 naturlig tabbordning för tillgänglighet
+ha alt-taggar för alla bilder 
+
+aldrig button med a-taggar för navigering (bättre att göra med CSS)

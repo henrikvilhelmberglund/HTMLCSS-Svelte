@@ -27,6 +27,12 @@
   </select>
   <h1>HTML - Introduktion</h1>
   <h2>Javascript är kul!</h2>
+  <a href="https://vitejs.dev" target="_blank">
+    <div>
+      <img src="vite.svg" width="100px" alt="Vite Logo" />
+      <p>Click!</p>
+    </div>
+  </a>
   <p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident amet repellendus temporibus, eos expedita aperiam asperiores perspiciatis velit
     molestias debitis placeat consequuntur magni sequi explicabo. Quia, ipsa! Velit, magnam vel?
