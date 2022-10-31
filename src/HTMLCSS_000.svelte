@@ -55,4 +55,23 @@ CSS Selector {
   div {
     border: 4px solid green;
   }
+
+  a {
+    color: red;
+    /* text-decoration: none; */
+  }
+
+  a:hover {
+    color: blue;
+    background: darkcyan;
+    cursor: grabbing;
+  }
+
+  div:hover {
+    background: yellow;
+    padding-top: 10px;
+    position: fixed;
+    top: 10px;
+    transition: all 500ms;
+  }
 </style>
