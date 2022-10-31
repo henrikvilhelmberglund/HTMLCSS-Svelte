@@ -1,3 +1,5 @@
+This repo is replaced by HTMLCSS-Sveltekit
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
