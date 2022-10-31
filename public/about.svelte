@@ -17,7 +17,7 @@
   </ul>
 </nav>
 
-This is the contact us page
+<h1>Om oss</h1>
 
 <style>
   /* your styles go here */

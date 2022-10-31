@@ -8,7 +8,7 @@
       <a href="index.html">Hem</a>
     </li>
     <li>
-      <a href="http://">Om oss</a>
+      <a href="about.svelte">Om oss</a>
     </li>
     <li>
       <a href="contact.svelte">Kontakta oss</a>
