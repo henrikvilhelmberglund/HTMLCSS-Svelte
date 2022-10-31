@@ -33,3 +33,8 @@ tillgängliga sidor hamnar högre i sökresultat
 charset för att sätta en encoding för att stöda andra språk
 i vanilla CSS har inline högre prioritet
 koppla CSS med <link rel="stylesheet" href="style.css">
+lorem5 t.ex i HTML för att autocompleta lorem ipsum för att testa
+
+kan bara ha en h1 men hur många h2 etc som helst
+h3 etc ska ha något att göra med h2
+lägg inte h4 direkt utan använd istället styling för att göra texten mindre om det behövs (kan inte h2 till h5 etc)
