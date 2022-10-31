@@ -2,6 +2,20 @@
 </script>
 
 <!-- <div style="height:50px;width:100px;border:1px solid black"> -->
+<nav>
+  <ul>
+    <li>
+      <a href="index.html">Hem</a>
+    </li>
+    <li>
+      <a href="http://">Om oss</a>
+    </li>
+    <li>
+      <a href="src/contact.svelte">Kontakta oss</a>
+    </li>
+  </ul>
+</nav>
+
 <div>
   <select name="" id="">
     <option disabled hidden selected>Välj språk</option>
@@ -14,15 +28,11 @@
   <h1>HTML - Introduktion</h1>
   <h2>Javascript är kul!</h2>
   <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident amet
-    repellendus temporibus, eos expedita aperiam asperiores perspiciatis velit
-    molestias debitis placeat consequuntur magni sequi explicabo. Quia, ipsa!
-    Velit, magnam vel?
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident amet repellendus temporibus, eos expedita aperiam asperiores perspiciatis velit
+    molestias debitis placeat consequuntur magni sequi explicabo. Quia, ipsa! Velit, magnam vel?
   </p>
   <h3>Fördelarna med JS</h3>
-  <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quisquam?
-  </p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quisquam?</p>
   <h2>Men CSS är roligare!</h2>
   <p>Lorem ipsum dolor sit amet.</p>
 </div>

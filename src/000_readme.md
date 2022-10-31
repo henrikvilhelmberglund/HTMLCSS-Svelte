@@ -40,3 +40,8 @@ h3 etc ska ha något att göra med h2
 lägg inte h4 direkt utan använd istället styling för att göra texten mindre om det behövs (kan inte h2 till h5 etc)
 
 finns type för li-tagg om man vill ha t.ex romerska siffror
+
+self enclosing tag <input type="button"/>
+<div role="navigation"> ? vs nav-tag
+
+naturlig tabbordning för tillgänglighet

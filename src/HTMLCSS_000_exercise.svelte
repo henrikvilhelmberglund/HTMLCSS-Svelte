@@ -23,29 +23,34 @@ a list item =
 the document’s head =<head>This is the document head</head>
 
 a single line break = <br />
+also
+<hr />
 
-a clickable button = <button on:click={buttonFunc}>Click me</button>
+a clickable button =<button on:click={buttonFunc}>Click me</button>
 
 a section in a document (OBS! Finns fler än ett rätt svar.) =
+<div>This is a div</div>
+<span>This is a span</span>
 <section>This is a section</section>
-
-navigation links =
+<header>This is a header</header>
+<footer>This is a footer</footer>
 <nav>This is a navigation link</nav>
-
+and all other semantic tags
+<br />
 an image =<img src="/src/assets/svelte.svg" alt="svelte logo" />
 
 the main content of a document =
 <main>This is the main content of a document</main>
 
 an ordered list =
-<ol>
+<ol type="I">
   <li>This is</li>
   <li>an ordered list</li>
 </ol>
 
 an option in a drop-down list =<select name="" id=""> <option value="">This is an option</option></select>
 
-important text = <strong>This text is important</strong>
+important text in a paragrapha= <strong>This text is important</strong>
 
 a row in a table =
 <table>
@@ -71,12 +76,15 @@ a drop-down list =<select name="" id=""
 >
 
 a header for a document or section =
-<h1>This is a header</h1>
-<h2>This is a header used after h1</h2>
-<h3>This is a header used after h2</h3>
-<h4>This is a header used after h3</h4>
-<h5>This is a header used after h4</h5>
-<h6>This is a header used after h5</h6>
+<header>This is a header</header>
+
+a heading for a document or section =
+<h1>This is a heading</h1>
+<h2>This is a heading used after h1</h2>
+<h3>This is a heading used after h2</h3>
+<h4>This is a heading used after h3</h4>
+<h5>This is a heading used after h4</h5>
+<h6>This is a heading used after h5</h6>
 
 an input control =<input type="button" value="This is a button input control" />
 <input type="color" name="This is a color input control" id="" />
