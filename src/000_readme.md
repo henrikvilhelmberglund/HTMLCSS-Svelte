@@ -38,3 +38,5 @@ lorem5 t.ex i HTML för att autocompleta lorem ipsum för att testa
 kan bara ha en h1 men hur många h2 etc som helst
 h3 etc ska ha något att göra med h2
 lägg inte h4 direkt utan använd istället styling för att göra texten mindre om det behövs (kan inte h2 till h5 etc)
+
+finns type för li-tagg om man vill ha t.ex romerska siffror

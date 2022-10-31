@@ -3,6 +3,14 @@
 
 <!-- <div style="height:50px;width:100px;border:1px solid black"> -->
 <div>
+  <select name="" id="">
+    <option disabled hidden selected>Välj språk</option>
+    <option value="">Svenska</option>
+    <option value="">Engelska</option>
+    <option value="" disabled>Spanska</option>
+    <option value="" hidden>Japanska</option>
+    <option value="">Japanska</option>
+  </select>
   <h1>HTML - Introduktion</h1>
   <h2>Javascript är kul!</h2>
   <p>
